@@ -24,7 +24,7 @@ It's a great example of combining logic, randomness, file I/O, and structured fl
 
 📎 Terminal preview:
 
-![Output Example](./img/output_example.png)
+<img src="./img/output_example.png" width="500">
 
 ---
 
